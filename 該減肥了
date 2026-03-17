@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std ;
+
+int main () {
+	int weight;
+	cin >> weight
+	int condition
+	condition = (weiight > 50);
+	cout < < (weight -cound) <endl;
+
+	return 0;
